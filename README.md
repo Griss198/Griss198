@@ -1,4 +1,4 @@
-# 👋 Hola, soy Grissel
+# 👋 Hola, soy Grissel Yujra
      Desarrollador web
 
 🚀 Apasionada por el desarrollo web y el aprendizaje continuo  
@@ -20,5 +20,6 @@
 
 ## 📫 Conecta conmigo
 🔗 GitHub: https://github.com/Griss198  
+🔗 LinkedIn https://www.linkedin.com/in/grissel-yujra-huanca-510b7a260/
 
 📩 ¡Abierta a oportunidades! 🚀
